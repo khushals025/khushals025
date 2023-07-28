@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://sase.org/wp-content/uploads/2020/06/BANNER-SIZE-AI-and-Machine-Learning.jpg" alt="MasterHead" width="800">
+  <img src="https://img.freepik.com/premium-vector/machine-learning-banner-web-icon-set-data-mining-algorithm-neural-network_35632-107.jpg?w=2000" alt="MasterHead" height = "300" width="1200">
 </p>
 
 <h1 align="center">Hi 👋, I'm Khushal Sharma</h1>
 <h3 align="center">A passionate data scientist and AI enthusiast.</h3>
-<p align="center"><img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"></p>
+<p align="center"><img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" height = "500" width = "650" ></p>
 
 - `whoami` A Master student at University at Buffalo 
 - `uptime` 25 years
