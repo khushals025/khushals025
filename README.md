@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Khushal Sharma</h1>
 <h3 align="center">A passionate data scientist and AI enthusiast.</h3>
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" height = "530" width = "650" ></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" height = "530" width = "670" ></p>
 
 - 🔬 Curiosity-driven explorer in the realms of AI and Data Science 🌐
 - `whoami` A Master student from University at Buffalo 
